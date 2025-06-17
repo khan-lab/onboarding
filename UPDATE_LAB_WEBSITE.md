@@ -1,4 +1,4 @@
-## 🧬 Add yourself to the lab's website
+## Add yourself to the lab's website
 
 Welcome to Khan Lab! 🎉 To add yourself to the [team page](https://khanlab.bio/team/), please follow the instructions below.
 
