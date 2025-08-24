@@ -4,8 +4,6 @@ Welcome to the **Computational Biology and Cancer Regulatory Genomics (CBCRG) La
 
 This repository provides essential resources for new and current lab members, including our **Lab Book**, **Reading List**, and **Journals & Conferences Guide**.
 
----
-
 ## 📑 Resources
 
 - 📘 [Lab Book](./LAB_BOOK.md) – Lab culture, expectations, onboarding, and practices.
@@ -13,15 +11,11 @@ This repository provides essential resources for new and current lab members, in
 - 📰 [Journals Guide](./JOURNALS.md) – Recommended journals to read and publish in.
 - 🎤 [Conferences Guide](./CONFERENCES.md) – Key conferences to attend and present research.
 
----
-
 ## 🌐 Links
 
 - 🔗 [CBCRG Lab Website](https://khanlab.bio)
 - 🔗 [Department Slack](https://mbzuai-compbio.slack.com)
 
 - 🔗 [MBZUAI](https://mbzuai.ac.ae)
-
----
 
 _Living documents – updated as the lab evolves._
