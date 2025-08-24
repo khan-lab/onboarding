@@ -34,8 +34,6 @@ A structured reading list for Master’s and PhD students joining the Computatio
   - Flavahan et al., _Nat Rev Cancer_ 2017, “Epigenetic plasticity and the hallmarks of cancer”  
     DOI: [10.1038/nrc.2017.57](https://doi.org/10.1038/nrc.2017.57)
 
----
-
 ## 2. Computational Biology & Multi-Omics
 
 - **Biological Sequence Analysis** – Durbin et al.  
@@ -52,8 +50,6 @@ A structured reading list for Master’s and PhD students joining the Computatio
     DOI: [10.1186/s13059-017-1215-1](https://doi.org/10.1186/s13059-017-1215-1)
   - Subramanian et al., _Nature Methods_ 2020  
     DOI: [10.1038/s41592-020-0888-9](https://doi.org/10.1038/s41592-020-0888-9)
-
----
 
 ## 3. Machine Learning & AI in Biology
 
@@ -74,8 +70,6 @@ A structured reading list for Master’s and PhD students joining the Computatio
   - Enformer – Avsec et al., _Nature Genetics_ 2021  
     DOI: [10.1038/s41588-021-00888-9](https://doi.org/10.1038/s41588-021-00888-9)
 
----
-
 ## 4. Cancer Genomics & Evolution
 
 - **Cancer Genomics: From Bench to Personalized Medicine** – Dellaire et al.  
@@ -89,8 +83,6 @@ A structured reading list for Master’s and PhD students joining the Computatio
 
 - **Human Tumor Atlas Network (HTAN)** – Demir et al., _Cell_ 2020  
   DOI: [10.1016/j.cell.2020.05.043](https://doi.org/10.1016/j.cell.2020.05.043)
-
----
 
 ## 5. Open Science, Reproducibility & Tools
 
@@ -111,8 +103,6 @@ A structured reading list for Master’s and PhD students joining the Computatio
   - dbSUPER: [http://bioinfo.au.tsinghua.edu.cn/dbsuper/](http://bioinfo.au.tsinghua.edu.cn/dbsuper/)
   - Intervene: [https://asntech.shinyapps.io/intervene/](https://asntech.shinyapps.io/intervene/)
 
----
-
 ## 6. Practical Skills
 
 - **Python for Biologists** – Martin Jones  
@@ -126,5 +116,3 @@ A structured reading list for Master’s and PhD students joining the Computatio
 
 - **Practical Statistics for Data Scientists** – Bruce & Gedeck  
   [O’Reilly Link](https://www.oreilly.com/library/view/practical-statistics-for/9781492072935/)
-
----
