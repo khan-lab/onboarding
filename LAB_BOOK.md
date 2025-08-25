@@ -74,7 +74,6 @@ Welcome to the CBCRG Lab! This **Lab Book** serves as an orientation and culture
 
 - **Slack**: For day-to-day lab coordination.
 - **Email**: For official communications.
-- **Respect focus time**: Avoid unnecessary pings during evenings or weekends unless urgent.
 
 ## 4. Mentorship and Development
 
@@ -136,7 +135,5 @@ Welcome to the CBCRG Lab! This **Lab Book** serves as an orientation and culture
 
 - **Core Tools**: https://khanlab.bio/tools
 
-## 10. Living Document
-
-This Lab Book is **a living document**. All lab members are welcome to suggest improvements by submitting issues or pull requests on GitHub.  
-We expect it to evolve with the lab’s growth, changing needs, and shared experiences.
+--- 
+> This Lab Book is **a living document**. All lab members are welcome to suggest improvements by submitting issues or pull requests on GitHub. We expect it to evolve with the lab’s growth, changing needs, and shared experiences.
