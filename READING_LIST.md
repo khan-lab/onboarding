@@ -72,7 +72,7 @@
 ## 4. Cancer Genomics & Evolution
 
 - **Cancer Genomics: From Bench to Personalized Medicine** – Dellaire et al.  
-  [Publisher Link](https://www.crcpress.com/Cancer-Genomics-From-Bench-to-Personalized-Medicine/Dellaire-Ashworth-Boutros/p/book/9780123969671)
+  [WorldCat Link](https://search.worldcat.org/title/864714803)
 
 - **TCGA Pan-Cancer Analysis** – _Cell_ 2018  
   DOI: [10.1016/j.cell.2018.03.014](https://doi.org/10.1016/j.cell.2018.03.014)
