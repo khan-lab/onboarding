@@ -1,8 +1,7 @@
 # 📑 Journals to Read (stay updated)
 
-This document lists recommended **journals** (to read and to publish in). It is not exhaustive but highlights key journals in **genomics, computational biology, cancer biology, and open science**. The goal is to help lab members stay updated with relevant literature and identify suitable venues for publishing their research.
+> This document lists recommended **journals** (to read and to publish in). It is not exhaustive but highlights key journals in **genomics, computational biology, cancer biology, and open science**. The goal is to help lab members stay updated with relevant literature and identify suitable venues for publishing their research.
 
----
 
 ### General High-Impact Science
 
