@@ -25,7 +25,8 @@
 - **Epigenetics (3rd Ed.)** – C.D. Allis, T. Jenuwein, D. Reinberg  
   [WorldCat Link](https://search.worldcat.org/title/884961911)
 
-- **Essential Papers in Enhancer Biology**:
+- **Essential on Regulatory Genomics (Enhancers)**:
+  - [A collection of papers from Encyclopedia of DNA Elements](https://www.nature.com/immersive/d42859-020-00027-2/index.html)
   - Whyte et al., _Cell_ 2013, “Master Transcription Factors and Mediator Establish Super-Enhancers at Key Cell Identity Genes”  
     DOI: [10.1016/j.cell.2013.03.035](https://doi.org/10.1016/j.cell.2013.03.035)
   - Northcott et al., _Nature_ 2014, “Enhancer hijacking activates GFI1 family oncogenes in medulloblastoma”  
