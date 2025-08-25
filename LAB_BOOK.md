@@ -2,11 +2,8 @@
 
 ### Computational Biology and Cancer Regulatory Genomics (CBCRG) Lab
 
-By Aziz Khan, PhD — MBZUAI, Abu Dhabi, UAE
+> Welcome to the CBCRG Lab! This **Lab Book** serves as an orientation and culture guide for all new members. It reflects our mission, expectations, values, and shared practices. The goal is to make your time in the lab rewarding, supportive, and productive.
 
-Welcome to the CBCRG Lab! This **Lab Book** serves as an orientation and culture guide for all new members. It reflects our mission, expectations, values, and shared practices. The goal is to make your time in the lab rewarding, supportive, and productive.
-
----
 
 ## 📑 Table of Contents
 
@@ -23,8 +20,8 @@ Welcome to the CBCRG Lab! This **Lab Book** serves as an orientation and culture
 5. [Mental Health & Work-Life Balance](#5-mental-health--work-life-balance)
 6. [Authorship, Credit, and Data Sharing](#6-authorship-credit-and-data-sharing)
 7. [Onboarding Checklist](#7-onboarding-checklist-for-new-members)
-8. [Resources](#8-resources)
-9. [Living Document](#9-living-document)
+8. [Resources](#8-raining-and-learning)
+9. [Resources](#9-resources)
 
 ## 1. Lab Vision and Mission
 
@@ -61,7 +58,7 @@ Welcome to the CBCRG Lab! This **Lab Book** serves as an orientation and culture
 
 - **Version Control**: All projects should have a GitHub repo. Use branches, commits, and pull requests.
 - **Data Management**: Store raw and processed data in structured directories with README files. Metadata must be included.
-- **Reproducibility**: Prefer Docker, Singularity, or Conda environments. Ensure analyses can be rerun by others with minimal effort.
+- **Reproducibility**: Prefer Docker, Singularity, or Conda environments. Ensure analyses can be rerun by others with minimal effort. We will also use workflow managers such as Nextflow ([nf-core pipelines](https://nf-co.re/pipelines/)) and Snakemake.
 - **FAIR Principles**: All data and code should be **Findable, Accessible, Interoperable, Reusable** whenever possible.
 
 ### 3.2 Meetings
