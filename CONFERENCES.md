@@ -1,8 +1,7 @@
 # 📑 Conferences to Attend / Present
 
-This document lists recommended **conferences** (to attend and present at) for members of the CBCRG Lab.
+> This document lists recommended **conferences** (to attend and present at) for members of the CBCRG Lab.
 
----
 
 ### Computational Biology & Bioinformatics
 
