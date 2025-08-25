@@ -17,13 +17,13 @@
 ## 1. Core Biological Foundations
 
 - **The Biology of Cancer (2nd Ed.)** – Robert Weinberg  
-  [WorldCat ISBN Link](https://www.worldcat.org/title/701018430)
+  [WorldCat ISBN](https://search.worldcat.org/title/1371401231) [We've a copy]
 
 - **Molecular Biology of the Gene (7th Ed.)** – James D. Watson et al.  
-  [Publisher Link](https://www.pearson.com/en-us/subject-catalog/p/molecular-biology-of-the-gene/P200000002707)
+  [WorldCat ISBN](https://search.worldcat.org/title/804550576)
 
 - **Epigenetics (3rd Ed.)** – C.D. Allis, T. Jenuwein, D. Reinberg  
-  [Publisher Link](https://www.cshlpress.com/default.tpl?cart=173467198571372323&fromlink=T&linkaction=full&linksortby=oop_title&--eqSKUdatarq=1078)
+  [WorldCat Link](https://search.worldcat.org/title/884961911)
 
 - **Essential Papers in Enhancer Biology**:
   - Whyte et al., _Cell_ 2013, “Master Transcription Factors and Mediator Establish Super-Enhancers at Key Cell Identity Genes”  
