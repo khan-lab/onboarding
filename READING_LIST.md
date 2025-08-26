@@ -105,10 +105,12 @@
 - **The Art of Command Line** – Open Source Guide  
   [GitHub Link](https://github.com/jlevy/the-art-of-command-line)
 
+- **Practical Statistics for Data Scientists** – Bruce & Gedeck  
+  [O’Reilly Link](https://www.oreilly.com/library/view/practical-statistics-for/9781492072935/)
+
 ## 7. Science and Society
 
 - [**On Being a Scientist**: A Guide to Responsible Conduct in Research](https://nap.nationalacademies.org/catalog/12192/on-being-a-scientist-a-guide-to-responsible-conduct-in) by NAS, USA.
 - [**How to be a modern scientist**](https://leanpub.com/modernscientist) by Jeffrey Leek
 
-- **Practical Statistics for Data Scientists** – Bruce & Gedeck  
-  [O’Reilly Link](https://www.oreilly.com/library/view/practical-statistics-for/9781492072935/)
+
