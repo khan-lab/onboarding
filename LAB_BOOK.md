@@ -109,17 +109,18 @@
 
 - [Software Carpentry Lessons](https://software-carpentry.org/lessons/)
 - [Genomics Data Carpentry Lessons](https://datacarpentry.org/lessons/#genomics)
-- [Open Life Science](https://openlifesci.org/)
-- [StatQuest by Josh Starmer](https://www.youtube.com/channel/UCtYLUTtgS3k1Fg4y5tAhLbw)
 - [Introduction to Bioinformatics and Computational Biology by Xiaole Shirley Liu](https://liulab-dfci.github.io/bioinfo-combio/)
+- [StatQuest by Josh Starmer](https://www.youtube.com/channel/UCtYLUTtgS3k1Fg4y5tAhLbw)
 - [Coursera: Genomics Data Science Specialization](https://www.coursera.org/specializations/genomic-data-science)
 - [Coursera: Epigenetic Control of Gene Expression by Marnie Blewitt](https://www.coursera.org/learn/epigenetics)
+- [Open Life Science](https://openlifesci.org/)
 
 #### Community and Forums
 
-- eLife Ambassadors
-- ASAPbio
-- Carpentries Network
+- [eLife Ambassadors](https://elifesciences.org/community/ambassadors)
+- [ASAPbio](https://asapbio.org/)
+- [preLights](https://prelights.biologists.com/)
+- [Carpentries Community](https://carpentries.org/community/get-involved/)
 - [Biostars Forum](https://www.biostars.org/)
 
 ## 9. Resources
