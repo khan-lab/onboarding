@@ -1,4 +1,4 @@
-# 📘 CBCRG Lab Reading List
+# 📘 Recommended reading list
 
 > A structured reading list for Master’s and PhD students joining the Computational Biology and Cancer Regulatory Genomics (CBCRG) Lab at MBZUAI.
 
