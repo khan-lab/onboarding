@@ -3,16 +3,6 @@
 > A structured reading list for Master’s and PhD students joining the Computational Biology and Cancer Regulatory Genomics (CBCRG) Lab at MBZUAI.
 
 
-## 📑 Table of Contents
-
-1. [Core Biological Foundations](#1-core-biological-foundations)
-2. [Computational Biology & Multi-Omics](#2-computational-biology--multi-omics)
-3. [Machine Learning & AI in Biology](#3-machine-learning--ai-in-biology)
-4. [Cancer Genomics & Evolution](#4-cancer-genomics--evolution)
-5. [Open Science, Reproducibility & Tools](#5-open-science-reproducibility--tools)
-6. [Practical Skills](#6-practical-skills)
-
----
 
 ## 1. Core Biological Foundations
 
@@ -105,6 +95,7 @@
 
 ## 6. Practical Skills
 
+- **Data Analysis for the Life Sciences** by Rafael Irizarry and Michael Love, [Free PDF](https://leanpub.com/dataanalysisforthelifesciences), [HTML](http://genomicsclass.github.io/book/)
 - **Python for Biologists** – Martin Jones  
   [Publisher Link](https://pythonforbiologists.com/)
 
@@ -113,6 +104,11 @@
 
 - **The Art of Command Line** – Open Source Guide  
   [GitHub Link](https://github.com/jlevy/the-art-of-command-line)
+
+## 7. Science and Society
+
+- [**On Being a Scientist**: A Guide to Responsible Conduct in Research](https://nap.nationalacademies.org/catalog/12192/on-being-a-scientist-a-guide-to-responsible-conduct-in) by NAS, USA.
+- [**How to be a modern scientist**](https://leanpub.com/modernscientist) by Jeffrey Leek
 
 - **Practical Statistics for Data Scientists** – Bruce & Gedeck  
   [O’Reilly Link](https://www.oreilly.com/library/view/practical-statistics-for/9781492072935/)
