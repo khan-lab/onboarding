@@ -18,8 +18,11 @@ This repository provides essential resources for new and current lab members, in
 
 ## 🌐 Links
 
-- [CBCRG Lab Website](https://khanlab.bio)
 - [Department Slack](https://mbzuai-compbio.slack.com)
+- [CBCRG Lab Website](https://khanlab.bio)
+- [Website source code ](https://github.com/khan-lab/khan-lab.github.io)
+- [GitHub](https://github.com/khan-lab/)
+- [DockerHub](https://hub.docker.com/u/asntech)
 
 
 _Living documents – updated as the lab evolves._
