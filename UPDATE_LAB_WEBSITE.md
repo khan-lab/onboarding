@@ -1,8 +1,8 @@
 ## Add yourself to the lab's website
 
-Welcome to Khan Lab! 🎉 To add yourself to the [team page](https://khanlab.bio/team/), please follow the instructions below.
+> Welcome to Khan Lab! 🎉 To add yourself to the [team page](https://khanlab.bio/team/), please follow the instructions below.
 
----
+
 
 ### Step 1: Fork and Clone the Repository
 
@@ -12,8 +12,6 @@ If you haven’t already, fork and clone the lab website repository:
 git clone https://github.com/khan-lab/khan-lab.github.io.git
 cd khan-lab.github.io
 ```
-
----
 
 ### Step 2: Create Your Profile Markdown File
 
@@ -28,7 +26,6 @@ _members/firstname-lastname.md
 _members/aziz-khan.md
 ```
 
----
 
 ### Step 3: Fill in Your Metadata and Bio
 
@@ -53,7 +50,6 @@ links:
 A short bio (2–4 sentences) about your background, interests, and what you’re working on at the lab.
 ```
 
----
 
 ### Step 4: Add Your Profile Image
 
@@ -65,7 +61,6 @@ A short bio (2–4 sentences) about your background, interests, and what you’r
 assets/images/team/
 ```
 
----
 
 ### Step 5: Commit and Push Your Changes
 
@@ -75,7 +70,6 @@ git commit -m "Add [Your Name] to team page"
 git push origin main  # or create a Pull Request if using a fork
 ```
 
----
 
 ### Step 6: Verify
 
@@ -83,7 +77,6 @@ After the site rebuilds, check your profile on the team page:
 
 👉 https://khanlab.bio/team/
 
----
 
 ### More Examples
 
