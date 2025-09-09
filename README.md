@@ -2,7 +2,7 @@
 
 > Welcome to the **Computational Biology and Cancer Regulatory Genomics (CBCRG) Lab** at MBZUAI.
 
-This repository provides essential resources for new and current lab members, including our **Lab book**, **Reading list**, and **Journals & Conferences luide**, etc.
+This repository provides essential info and resources for new and current lab members, including **Lab book**, **reading list**, and **journals & conferences list**, etc.
 
 ## 📑 Resources
 
