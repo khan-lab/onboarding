@@ -79,19 +79,27 @@
 - **The Practice of Reproducible Research** – Kitzes, Turek, Deniz (Eds.)  
   Free Online: [https://www.practicereproducibleresearch.org](https://www.practicereproducibleresearch.org)
 
+- **Reproducibility and Replicability in Science (2019)** by the National Academy of Sciences (NAS)
+  Free online: [https://nap.nationalacademies.org/catalog/25303/reproducibility-and-replicability-in-science](https://nap.nationalacademies.org/catalog/25303/reproducibility-and-replicability-in-science)
+
 - **Reproducible Research with R and RStudio** – Christopher Gandrud  
   [Publisher Link](https://www.routledge.com/Reproducible-Research-with-R-and-RStudio/Gandrud/p/book/9780367331852)
 
 - **Good Enough Practices in Scientific Computing** – Wilson et al., _PLoS Comput Biol_ 2017  
   DOI: [10.1371/journal.pcbi.1005510](https://doi.org/10.1371/journal.pcbi.1005510)
 
-- **Software Carpentry Lessons**: [https://software-carpentry.org/lessons/](https://software-carpentry.org/lessons/)
+- Sandve GK et al. (2013) **Ten Simple Rules for Reproducible Computational Research**. PLOS Computational Biology 9(10).
+  doi: https://doi.org/10.1371/journal.pcbi.1003285
+- Ziemann M, Poulain P, Bora A (2023). **The five pillars of computational reproducibility: bioinformatics and beyond**. Brief Bioinform.;24(6)
+  https://genomebiology.biomedcentral.com/articles/10.1186/s13059-015-0850-7
+  
+- Wilkinson, M., Dumontier, M., Aalbersberg, I. et al. **The FAIR Guiding Principles for scientific data management and stewardship**. Sci Data 3, 160018 (2016).
+  https://doi.org/10.1038/sdata.2016.18 https://www.nature.com/articles/sdata201618
+  
+- **Is AI leading to a reproducibility crisis in science**? Nature 624, 22-25 (2023)
+  https://www.nature.com/articles/d41586-023-03817-6
 
-- **Lab Tools & Resources**:
-  - JASPAR: [http://jaspar.genereg.net](http://jaspar.genereg.net)
-  - ENCODE: [https://www.encodeproject.org/](https://www.encodeproject.org/)
-  - dbSUPER: [http://bioinfo.au.tsinghua.edu.cn/dbsuper/](http://bioinfo.au.tsinghua.edu.cn/dbsuper/)
-  - Intervene: [https://asntech.shinyapps.io/intervene/](https://asntech.shinyapps.io/intervene/)
+- **Software Carpentry Lessons**: [https://software-carpentry.org/lessons/](https://software-carpentry.org/lessons/)
 
 ## 6. Practical Skills
 
